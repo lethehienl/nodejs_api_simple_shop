@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MOGO_ATLAS_PW": "hienta",
+    "JWT_KEY": "secret"
+  }
+}
